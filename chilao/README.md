@@ -4,7 +4,7 @@ The Chilopoda Anatomy Ontology contains terms used for describing the anatomy an
 More information about the BIOfid-project and EUdaphobase can be found at https://www.biofid.de and https://www.eudaphobase.eu, respectively.
  
 ## Creators
-M.Sc. Carlos A. Martínez-Muñoz, Senckenberg — Leibniz Institution for Biodiversity and Earth System Research, Germany, and University of Turku, Finland. https://m.wikidata.org/wiki/Q104006568
+M.Sc. Carlos A. Martínez-Muñoz, Senckenberg — Leibniz Institution for Biodiversity and Earth System Research, Germany, and University of Turku, Finland. https://www.wikidata.org/entity/Q104006568
 
 M.Sc. José Francisco Aldana-Martín, University of Málaga, Khaos Research Group, ITIS Software, Málaga, Spain. https://orcid.org/0000-0002-4845-762X
  
