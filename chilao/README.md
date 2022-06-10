@@ -1,6 +1,6 @@
 # Chilopoda Anatomy Ontology (ChilAO)
 
-The Chilopoda Anatomy Ontology contains terms used for describing the anatomy and phenotype of centipedes in biodiversity research. ChilAO was developed within the framework of the DFG-funded Specialised Information Service Biodiversity Research (BIOfid) in cooperation with the EUdaphobase COST Action 18237.
+The Chilopoda Anatomy Ontology is currently in its demo version 1.3. It contains terms used for describing the anatomy and phenotype of centipedes in biodiversity research. ChilAO was developed within the framework of the DFG-funded Specialised Information Service Biodiversity Research (BIOfid) in cooperation with the EUdaphobase COST Action 18237.
 More information about the BIOfid-project and EUdaphobase can be found at https://www.biofid.de and https://www.eudaphobase.eu, respectively.
  
 ## Creators
